@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ### Django forum
 
 ***
@@ -151,3 +152,7 @@ CACHES = { # memcached缓存设置
    * 创建回复 POST /api/topics/:id/replies
 
 以上api POST PUT时需要用到授权`access_token`.
+=======
+# SLove
+This is a BBS like V2EX.
+>>>>>>> d409ee83814dfafa62c68a885066d9f5e613147b
