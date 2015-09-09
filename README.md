@@ -80,7 +80,7 @@ SAE版本依赖已打包到site-packages.zip,头像存储使用七牛,所以还�
     上传代码
     登录后台设置
 
-shell> git clone -b sae git@github.com:zhu327/forum.git
+shell> git clone -b sae git@github.com:napoleon516/SLove.git
 
 shell> cd forum
 
